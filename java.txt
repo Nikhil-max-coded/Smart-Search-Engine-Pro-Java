@@ -1,0 +1,15 @@
+Java is a powerful programming language.
+Java is object oriented.
+Java supports inheritance and polymorphism.
+Java uses JVM to run programs.
+Java is platform independent.
+Java is widely used in enterprise applications.
+Java supports multithreading.
+Java provides exception handling.
+Collections framework is useful in Java.
+Java developers build desktop and web applications.
+HashMap stores key value pairs.
+ArrayList is a dynamic array.
+Searching algorithms are important in Java.
+Sorting algorithms improve performance.
+Java programming is easy to learn with practice.

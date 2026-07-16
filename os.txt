@@ -1,0 +1,15 @@
+Operating system manages computer resources.
+Operating system manages memory.
+Operating system manages files.
+CPU scheduling improves performance.
+Process scheduling is important.
+Threads increase efficiency.
+Deadlock occurs in operating systems.
+Paging is a memory management technique.
+Virtual memory improves execution.
+Operating system controls hardware.
+Linux is an operating system.
+Windows is an operating system.
+Round robin is a scheduling algorithm.
+First come first serve is a scheduling method.
+Operating systems improve resource utilization.

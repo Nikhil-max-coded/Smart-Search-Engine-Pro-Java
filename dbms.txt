@@ -1,0 +1,15 @@
+Database stores information efficiently.
+DBMS manages databases.
+SQL is used to query databases.
+Primary key uniquely identifies records.
+Foreign key creates relationships.
+Normalization reduces redundancy.
+Database indexing improves search speed.
+Transactions follow ACID properties.
+Joins combine multiple tables.
+Database security protects information.
+Entity relationship model is important.
+Hash indexing improves retrieval.
+DBMS supports concurrent users.
+Database backup prevents data loss.
+SQL queries retrieve information quickly.
